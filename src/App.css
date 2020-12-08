@@ -5,6 +5,32 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
     'Lucida Sans', Arial, sans-serif;
 }
+.menu {
+  background: #378ddd34;
+  padding: 60px 0 60px 60px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 40px; /* Height of the footer */
+  background: #378ddd34;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(255, 255, 255);
+  font-size: 12px;
+  text-align: right;
+  padding-top: 28px;
+  padding-bottom: 28px;
+}
+.menu-links {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: lighter;
+  /* padding-right: 150px; */
+  /* float: right; */
+}
 
 body {
   background-image: url(./backgroundImg.jpg);
