@@ -7,7 +7,7 @@
 }
 .menu {
   background: #378ddd34;
-  padding: 60px 0 60px 60px;
+  padding: 40px 0 40px 40px;
 }
 footer {
   position: fixed;
@@ -28,17 +28,50 @@ footer {
   font-size: 18px;
   font-family: 'Courier New', Courier, monospace;
   font-weight: lighter;
-  /* padding-right: 150px; */
-  /* float: right; */
+}
+h4,
+p {
+  font-size: 25px;
 }
 
+.quote {
+  width: max-content;
+  display: grid;
+  margin: auto;
+  text-align: center;
+  margin-top: 5em;
+  height: 150px;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  color: white;
+  background: #0c68bec9;
+  border-radius: 10px;
+}
+.btns {
+  text-align: center;
+}
+.btn {
+  text-align: center;
+  color: white;
+  background: linear-gradient(
+    90deg,
+    rgba(20, 159, 255, 1) 0%,
+    rgba(17, 122, 255, 1) 100%
+  );
+  border-radius: 0.25rem;
+  width: 10rem;
+  height: 3rem;
+  margin: -20px -50px;
+  top: 50%;
+  left: 50%;
+  margin-top: 3rem;
+  margin-right: 3em;
+  margin-left: 3em;
+  border: none;
+}
 body {
   background-image: url(./backgroundImg.jpg);
-  /* background: linear-gradient(
-    90deg,
-    rgba(96, 208, 252) 0%,
-    rgba(202, 233, 243) 100%
-  ); */
 }
 .todo-app {
   display: flex;
@@ -49,6 +82,7 @@ body {
   background: #0c68bec9;
   text-align: center;
   margin: 128px auto;
+  margin-top: 3em;
   border-radius: 10px;
   padding-bottom: 32px;
 }
