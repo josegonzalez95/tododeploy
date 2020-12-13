@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/tododeploy/static/css/main.9401fc01.chunk.css",
-    "main.js": "/tododeploy/static/js/main.459ff581.chunk.js",
-    "main.js.map": "/tododeploy/static/js/main.459ff581.chunk.js.map",
+    "main.css": "/tododeploy/static/css/main.1f443d72.chunk.css",
+    "main.js": "/tododeploy/static/js/main.8ef0d8c2.chunk.js",
+    "main.js.map": "/tododeploy/static/js/main.8ef0d8c2.chunk.js.map",
     "runtime-main.js": "/tododeploy/static/js/runtime-main.b867f4ee.js",
     "runtime-main.js.map": "/tododeploy/static/js/runtime-main.b867f4ee.js.map",
-    "static/js/2.c0c3f37a.chunk.js": "/tododeploy/static/js/2.c0c3f37a.chunk.js",
-    "static/js/2.c0c3f37a.chunk.js.map": "/tododeploy/static/js/2.c0c3f37a.chunk.js.map",
+    "static/js/2.73a4f29d.chunk.js": "/tododeploy/static/js/2.73a4f29d.chunk.js",
+    "static/js/2.73a4f29d.chunk.js.map": "/tododeploy/static/js/2.73a4f29d.chunk.js.map",
     "index.html": "/tododeploy/index.html",
-    "static/css/main.9401fc01.chunk.css.map": "/tododeploy/static/css/main.9401fc01.chunk.css.map",
-    "static/js/2.c0c3f37a.chunk.js.LICENSE.txt": "/tododeploy/static/js/2.c0c3f37a.chunk.js.LICENSE.txt",
+    "static/css/main.1f443d72.chunk.css.map": "/tododeploy/static/css/main.1f443d72.chunk.css.map",
+    "static/js/2.73a4f29d.chunk.js.LICENSE.txt": "/tododeploy/static/js/2.73a4f29d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/tododeploy/static/media/backgroundImg.a271802f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b867f4ee.js",
-    "static/js/2.c0c3f37a.chunk.js",
-    "static/css/main.9401fc01.chunk.css",
-    "static/js/main.459ff581.chunk.js"
+    "static/js/2.73a4f29d.chunk.js",
+    "static/css/main.1f443d72.chunk.css",
+    "static/js/main.8ef0d8c2.chunk.js"
   ]
 }
